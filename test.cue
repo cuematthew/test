@@ -1,4 +1,4 @@
 package x
 
-value: int | *0
+value: int | *1
 #schema: >0 & <10
