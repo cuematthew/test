@@ -1,3 +1,3 @@
 package x
 
-out: "world"
+#schema: >0 & <10
