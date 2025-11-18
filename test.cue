@@ -1,3 +1,3 @@
 package x
 
-out: "olleh"
+out: "world"
